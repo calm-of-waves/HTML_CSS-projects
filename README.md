@@ -1,2 +1,2 @@
-# smth-new
-print("HEllo world!")
+# HTML & CSS projects
+print("HEllo everyone, Howya doing")
